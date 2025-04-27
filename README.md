@@ -6,7 +6,6 @@ This project implements a **Code-First Approach** using **Entity Framework Core*
 ## Features
 - **Code-First Approach**: Define models and relationships directly in C#.
 - **Entity Framework Core**: Used for ORM (Object-Relational Mapping).
-- **Repository Pattern**: Decouples database logic from business logic.
 - **Dependency Injection**: Improves scalability and maintainability.
 
  

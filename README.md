@@ -8,4 +8,7 @@ This project implements a **Code-First Approach** using **Entity Framework Core*
 - **Entity Framework Core**: Used for ORM (Object-Relational Mapping).
 - **Dependency Injection**: Improves scalability and maintainability.
 
+## Video Demo
+Watch the project demo here: [Code-First Approach with Entity Framework in .NET 8 Web API](https://www.youtube.com/watch?v=gTL8iMiUiKw)
+
  
